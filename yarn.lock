@@ -9261,7 +9261,7 @@ rc@^1.2.8:
 
 react-components@iDVB/react-components#master:
   version "4.37.1"
-  resolved "https://codeload.github.com/iDVB/react-components/tar.gz/0bea003ff75972a19888b44cb1b7f3a7fd7f55d4"
+  resolved "https://codeload.github.com/iDVB/react-components/tar.gz/59937765175c62f0e7b1d5da0d6e135e7c10bb60"
 
 react-dev-utils@^11.0.3:
   version "11.0.4"
