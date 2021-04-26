@@ -4,8 +4,8 @@ import styled from 'styled-components'
 
 const Layout = ({ children }) => {
   return (
-    <Page id="fullpage">
-      <Main id="main-content">{children}</Main>
+    <Page>
+      <Main>{children}</Main>
       <CookieBanner />
     </Page>
   )
@@ -14,7 +14,7 @@ const Layout = ({ children }) => {
 const Page = styled.div`
   position: relative;
   margin: 0;
-  background: ${({ theme }) => theme.palette.common.white};
+  background: white;
   transition: background 300ms ease-in-out;
 `
 
