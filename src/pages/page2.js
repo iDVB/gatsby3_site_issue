@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import { Hero } from 'react-components'
 import Layout from '../components/Layout/Layout'
 
-const Culture = () => {
+const Page2 = () => {
   return (
     <Layout>
       <Link to="/">Go to HOME</Link>
@@ -13,4 +13,4 @@ const Culture = () => {
   )
 }
 
-export default Culture
+export default Page2
