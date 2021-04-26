@@ -7,7 +7,7 @@
     "gatsby-cli": "^3.3.0",
     "gatsby-plugin-styled-components": "^4.3.0",
     "react": "^17.0.1",
-    "react-components": "iDVB/react-components#dev",
+    "react-components": "iDVB/react-components#master",
     "react-dom": "^17.0.1",
     "styled-components": "5.2.3"
   },
